@@ -9,3 +9,5 @@ I also included some interesting statistics like total amount of guests and dail
 Here is the full program on itch.io 
 https://ncolbrunn.itch.io/counter
 
+CelsiusFahrenheitConverter.java was an assignment we did in my Data Structures and Software Design Class. It is not super complicated but it was one of my favorite projects. It uses JFrame to display windows and buttons for ease of use.
+
