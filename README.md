@@ -11,3 +11,5 @@ https://ncolbrunn.itch.io/counter
 
 CelsiusFahrenheitConverter.java was an assignment we did in my Data Structures and Software Design Class. It is not super complicated but it was one of my favorite projects. It uses JFrame to display windows and buttons for ease of use.
 
+Calc.c is the latest project we've done in my Programming Lang & Paradigms Class. It takes standard inputs in postfix notation to do calculations involving basic operations, modulus, sin, exponents, and power. It also handles negative numbers. 
+
